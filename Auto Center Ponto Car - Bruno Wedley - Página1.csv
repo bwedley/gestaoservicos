@@ -1,0 +1,51 @@
+Carro;Placa;Cliente;NÂº Clien;DescriÃ§Ã£o do Ser;CÃ³digo do Servi;PreÃ§o Servi;S. Rampa;S. Elevador;PeÃ§as Externas (S/;PreÃ§o PeÃ§as Exte;Total ServiÃ
+Onix;BZ8978;Fernanda Lima;(74) 97512-7294;Alinhamento;3;356;Sim;NÃ;NÃ;0;356
+Uno;VO5323;Juliana Azevedo;(41) 92776-1250;Troca de Ã³l;6;340;NÃ;Sim;Sim;126;466
+Corolla;IM1607;Gabriel Teixeira;(37) 99396-8614;Alinhamento;3;217;Sim;NÃ;NÃ;0;217
+Kwid;RT2701;Rafaela Gomes;(80) 92556-8409;Balanceamento;1;219;Sim;NÃ;NÃ;0;219
+Civic;ES2233;Gabriel Carvalho;(91) 94433-9713;Troca de pneus;9;85;Sim;NÃ;NÃ;0;85
+Uno;AT9190;Carlos Ribeiro;(96) 96951-1483;Montagem de pneus;8;458;Sim;NÃ;NÃ;0;458
+Focus;JG2995;Lucas Mendes;(44) 91585-6945;Cambagem;4;181;Sim;NÃ;NÃ;0;181
+HB20;UN2070;JoÃ£o Sou;(77) 96331-2445;Reparos mecÃ¢nic;7;296;NÃ;Sim;Sim;102;398
+Focus;QU7814;Pedro Mendes;(10) 99332-8054;Montagem de pneus;8;365;Sim;NÃ;NÃ;0;365
+Gol;TW9346;Ricardo Rocha;(80) 96118-2104;Balanceamento;1;377;Sim;NÃ;NÃ;0;377
+Gol;OY8401;Lucas Santana;(16) 97335-7107;Troca de pneus;9;227;Sim;NÃ;NÃ;0;227
+Palio;PL3203;Fernanda Almeida;(97) 94640-5052;RevisÃ£o ger;10;296;NÃ;Sim;Sim;109;405
+Onix;NS6640;Juliana Costa;(27) 91948-8381;SuspensÃ;5;186;NÃ;Sim;Sim;130;316
+Gol;ZT7172;Ana Ribeiro;(14) 90711-5298;Montagem de pneus;8;148;Sim;NÃ;NÃ;0;148
+Palio;AR5662;Bianca Martins;(67) 90506-6762;Caster;11;271;Sim;NÃ;NÃ;0;271
+Corolla;EP4500;Pedro Silva;(73) 90188-2405;SuspensÃ;5;207;NÃ;Sim;Sim;167;374
+Civic;PJ1119;Felipe Souza;(97) 97328-8070;SuspensÃ;5;465;NÃ;Sim;Sim;184;649
+Sandero;IL4008;Felipe Souza;(51) 96299-5131;Troca de pneus;9;259;Sim;NÃ;NÃ;0;259
+Palio;SQ9819;Lucas Gomes;(51) 97469-9611;Montagem de pneus;8;275;Sim;NÃ;NÃ;0;275
+Corolla;SQ6007;JoÃ£o Teixei;(71) 92923-5572;Troca de pneus;9;220;Sim;NÃ;NÃ;0;220
+Corolla;XR1863;Felipe Carvalho;(11) 96377-5747;Balanceamento;1;110;Sim;NÃ;NÃ;0;110
+Focus;HX2281;Gabriel Rocha;(82) 90756-8332;Caster;11;217;Sim;NÃ;NÃ;0;217
+Palio;MZ7145;Ricardo Souza;(90) 96349-7334;SuspensÃ;5;354;NÃ;Sim;Sim;93;447
+HB20;WP1721;Marcos Silva;(85) 97504-6850;Montagem de pneus;8;321;Sim;NÃ;NÃ;0;321
+Uno;NQ1831;Ana Ribeiro;(51) 92233-7647;Reparos mecÃ¢nic;7;244;NÃ;Sim;Sim;75;319
+Uno;LR9042;Lucas Moreira;(19) 94244-1552;Montagem de pneus;8;341;Sim;NÃ;NÃ;0;341
+HB20;QG2136;Pedro Carvalho;(13) 91918-4943;Alinhamento;3;147;Sim;NÃ;NÃ;0;147
+Gol;GI7618;Sabrina Dias;(64) 99723-1185;Montagem de pneus;8;268;Sim;NÃ;NÃ;0;268
+Corolla;GV2649;Gabriel Oliveira;(69) 94574-1461;Troca de bateria;2;366;NÃ;Sim;Sim;152;518
+Onix;CX9716;Carlos Souza;(22) 98822-7670;Alinhamento;3;230;Sim;NÃ;NÃ;0;230
+Kwid;SB2257;Leonardo Oliveira;(95) 97230-4912;Caster;11;351;Sim;NÃ;NÃ;0;351
+Focus;VZ2812;Larissa Teixeira;(99) 92868-8059;Troca de bateria;2;497;NÃ;Sim;Sim;176;673
+Gol;XZ1517;Leonardo Silva;(49) 98089-6579;Caster;11;298;Sim;NÃ;NÃ;0;298
+Kwid;IV7585;Sabrina Barbosa;(12) 97189-1329;Montagem de pneus;8;148;Sim;NÃ;NÃ;0;148
+Uno;NS7730;Camila Ferreira;(72) 90005-5310;SuspensÃ;5;483;NÃ;Sim;Sim;51;534
+Sandero;GG4824;JoÃ£o Mend;(14) 95176-3341;Balanceamento;1;143;Sim;NÃ;NÃ;0;143
+Palio;NT5785;Ana Oliveira;(26) 99888-1231;Troca de pneus;9;101;Sim;NÃ;NÃ;0;101
+Focus;DK3744;Lucas Ribeiro;(48) 96483-2245;Balanceamento;1;335;Sim;NÃ;NÃ;0;335
+Kwid;JW2916;Larissa Mendes;(76) 95286-2009;Reparos mecÃ¢nic;7;358;NÃ;Sim;Sim;96;454
+Palio;UR1847;Carlos Ribeiro;(81) 96772-6139;Troca de pneus;9;89;Sim;NÃ;NÃ;0;89
+Gol;DV5287;Bianca Teixeira;(87) 96540-2643;Balanceamento;1;473;Sim;NÃ;NÃ;0;473
+Gol;ZE5665;Fernanda Silva;(80) 93334-3807;Montagem de pneus;8;282;Sim;NÃ;NÃ;0;282
+Kwid;AP6038;Pedro Almeida;(53) 96444-5188;Reparos mecÃ¢nic;7;81;NÃ;Sim;Sim;167;248
+Uno;TH9230;Maria Ferreira;(67) 97087-8158;Cambagem;4;295;Sim;NÃ;NÃ;0;295
+Onix;MK9522;AndrÃ© Roc;(12) 96852-9841;RevisÃ£o ger;10;184;NÃ;Sim;Sim;58;242
+Gol;NQ1251;Larissa Santana;(47) 92121-4263;Balanceamento;1;464;Sim;NÃ;NÃ;0;464
+Focus;WL3328;JoÃ£o Carval;(79) 96946-9511;Alinhamento;3;438;Sim;NÃ;NÃ;0;438
+Sandero;FX8497;Gabriel Gomes;(22) 90490-9686;RevisÃ£o ger;10;119;NÃ;Sim;Sim;88;207
+Civic;JD9979;Fernanda Mendes;(91) 94803-4972;Balanceamento;1;177;Sim;NÃ;NÃ;0;177
+Sandero;QD3554;Carlos Silva;(89) 91813-7336;Caster;11;185;Sim;NÃ;NÃ;0;185
